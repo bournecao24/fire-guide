@@ -25,7 +25,7 @@ F.I.R.E 的全称是 Financial Independence and Early Retirement，「财务自�
 
 ## 制定一份属于你的财务自由计划
 
-![](rio-1303951_1920.jpg)
+![](_image/rio-1303951_1920.jpg)
 
 #### 我们到底要什么
 
@@ -80,7 +80,7 @@ else:
 
 那么现在问题来了，如果我从零开始，怎样能够确保资金 10 年时间积累到 500 万呢？我们需要一个计算器，我自己用的是 Calculator.net[^1]。
 
-![](Calculator.jpeg)
+![](_image/Calculator.jpeg)
 
 我输入了 500 万的储蓄目标，计划十年，期间投资收益率 10%。最终计算的结果为——我需要每月储蓄 2.5 万，折合每年 30 万。
 
